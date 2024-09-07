@@ -1,4 +1,12 @@
-.footer{
-  background: #69F0AE;
-  font-size: 64px;
+.footer-section {
+  padding-bottom: 25px;
+
+  ul {
+    box-shadow: 0px -4px 10px 0px #CDCDCD1A;
+  }
+
+  .account-btn {
+    margin-top: -25px;
+    padding: 0 4.5px;
+  }
 }
